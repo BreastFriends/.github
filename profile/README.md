@@ -13,7 +13,7 @@ Our solution won 2nd place!
 
 ## Demo application
 
-Check out the demo at https://breastfriends.github.io/ui!
+Check out the demo at https://breastfriends.github.io/ui.
 
 ## TODO
 
