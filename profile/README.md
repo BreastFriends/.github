@@ -1,6 +1,6 @@
 # AI4Health.Cro 2025 – Breast Lesion Classification on Mammographic Images
 
-Welcome to the official GitHub organization for our solution to the AI4Health innovation competition solution.
+Welcome to the official GitHub organization for our solution to the AI4Health innovation competition.
 
 ## About the Project
 
