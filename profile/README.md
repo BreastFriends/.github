@@ -4,7 +4,12 @@ Welcome to the official GitHub organization for our solution to the AI4Health in
 
 ## About the Project
 
-This project was developed as part of the [AI4Health.Cro Innovation Competition 2025](https://ai4healthcro.eu/?ht_kb=join-ai4health-cro-2025-innovation-competition). The goal was to develop AI models that would assist radiologists in BIRADS score assesment and identify breast lesions from mammography images, create an app prototype and a business strategy. Our solution won 2nd place!
+This project was developed as part of the [AI4Health.Cro Innovation Competition 2025](https://ai4healthcro.eu/?ht_kb=join-ai4health-cro-2025-innovation-competition). The goal was to:
+- develop AI models that would assist radiologists in BIRADS score assesment and breast lesion detection from mammography images,
+- create a prototype of the app for radiologists and
+- develop a business strategy.
+
+Our solution won 2nd place!
 
 ## Demo application
 
